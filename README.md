@@ -42,9 +42,10 @@ This architecture ensures that the business logic is decoupled from external con
 
 ### Prerequisites
 
-- [Go](https://golang.org/doc/install) (version 1.16+)
-- [Protocol Buffers](https://developers.google.com/protocol-buffers) (for generating gRPC code)
+- [Go](https://golang.org/doc/install)
+- [Protocol Buffers](https://developers.google.com/protocol-buffers)
 - [gRPC](https://grpc.io/docs/languages/go/quickstart/)
+- [PostgreSQL](https://www.postgresql.org/download/)
 
 ### Installation
 
